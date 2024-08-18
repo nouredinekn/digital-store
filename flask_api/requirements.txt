@@ -1,0 +1,4 @@
+flask_mysqldb
+aspose.pdf
+flask
+flask_cors

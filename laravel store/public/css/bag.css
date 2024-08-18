@@ -1,0 +1,24 @@
+:root {
+    --main-color: #c0392b;
+    --body-bg: #181616;
+    --box-bg: #221f1f;
+    --text-color: #ffffff;
+    --nav-height: 60px;
+    --space-top: 30px;
+}
+a{
+	
+	text-decoration: none;
+	color:#181616;
+}
+a:hover{
+	text-decoration: none;
+	color:#181616;
+}
+.logo {
+    font-size: 2rem;
+    font-weight: 900;
+}
+.main-color {
+    color: var(--main-color);
+}
