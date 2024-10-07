@@ -86,15 +86,7 @@ Follow these steps to set up your local development environment:
 | GET    | `/orders`                    | View all orders                          |
 | DELETE | `/delete/{id}`               | Delete a product catalogue               |
 
-## Contributing
 
-Contributions are welcome! If you have suggestions for improvements, feel free to create an issue or submit a pull request.
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature/YourFeature`)
-5. Open a pull request
 
 
 ## Acknowledgements
